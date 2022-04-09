@@ -1,0 +1,10 @@
+ spring:
+   h2:
+     console:
+       enabled: true
+
+ server:
+   port: 60002
+
+ jwt:
+     secret: secretKey123
